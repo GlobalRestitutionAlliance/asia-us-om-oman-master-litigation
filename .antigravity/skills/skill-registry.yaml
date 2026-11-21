@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: omanan-restitution-roadmap-and-qsf-trust-execution
-  name: Omanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/omanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_om_001
+    name: Oman Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_002
+    name: Oman Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_003
+    name: Oman Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_004
+    name: Oman Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_005
+    name: Oman Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_006
+    name: Oman Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_007
+    name: Oman Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_008
+    name: Oman Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_009
+    name: Oman Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_010
+    name: Oman Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_011
+    name: Oman Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_012
+    name: Oman Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_013
+    name: Oman Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_014
+    name: Oman Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_015
+    name: Oman Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_016
+    name: Oman Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_017
+    name: Oman Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_018
+    name: Oman Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_019
+    name: Oman Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_020
+    name: Oman Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_021
+    name: Oman Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_022
+    name: Oman Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_023
+    name: Oman Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_024
+    name: Oman Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_025
+    name: Oman Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_026
+    name: Oman Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_027
+    name: Oman Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_028
+    name: Oman Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_029
+    name: Oman Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_030
+    name: Oman Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_031
+    name: Oman Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_032
+    name: Oman Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_033
+    name: Oman Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_034
+    name: Oman Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_035
+    name: Oman Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_036
+    name: Oman Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_037
+    name: Oman Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_038
+    name: Oman Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_039
+    name: Oman Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_040
+    name: Oman Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_041
+    name: Oman Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_042
+    name: Oman Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_043
+    name: Oman Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_044
+    name: Oman Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_045
+    name: Oman Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_046
+    name: Oman Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_047
+    name: Oman Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_048
+    name: Oman Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_049
+    name: Oman Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_050
+    name: Oman Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_051
+    name: Oman Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_052
+    name: Oman Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_053
+    name: Oman Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_054
+    name: Oman Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_055
+    name: Oman Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_056
+    name: Oman Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_057
+    name: Oman Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_058
+    name: Oman Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_059
+    name: Oman Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_060
+    name: Oman Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_061
+    name: Oman Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_062
+    name: Oman Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_063
+    name: Oman Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_064
+    name: Oman Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_065
+    name: Oman Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_066
+    name: Oman Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_067
+    name: Oman Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_068
+    name: Oman Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_069
+    name: Oman Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_070
+    name: Oman Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_071
+    name: Oman Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_072
+    name: Oman Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_073
+    name: Oman Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_074
+    name: Oman Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_075
+    name: Oman Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_076
+    name: Oman Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_077
+    name: Oman Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_078
+    name: Oman Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_079
+    name: Oman Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_080
+    name: Oman Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_081
+    name: Oman Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_082
+    name: Oman Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_083
+    name: Oman Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_084
+    name: Oman Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_085
+    name: Oman Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_086
+    name: Oman Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_087
+    name: Oman Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_088
+    name: Oman Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_089
+    name: Oman Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_090
+    name: Oman Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_091
+    name: Oman Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_092
+    name: Oman Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_093
+    name: Oman Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_094
+    name: Oman Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_095
+    name: Oman Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_096
+    name: Oman Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_097
+    name: Oman Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_098
+    name: Oman Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_099
+    name: Oman Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_100
+    name: Oman Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_101
+    name: Oman Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_102
+    name: Oman Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_103
+    name: Oman Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_104
+    name: Oman Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_105
+    name: Oman Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_106
+    name: Oman Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_107
+    name: Oman Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_108
+    name: Oman Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_109
+    name: Oman Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_110
+    name: Oman Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_111
+    name: Oman Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_112
+    name: Oman Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_113
+    name: Oman Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_114
+    name: Oman Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_115
+    name: Oman Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_116
+    name: Oman Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_117
+    name: Oman Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_118
+    name: Oman Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_119
+    name: Oman Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_120
+    name: Oman Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_121
+    name: Oman Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_122
+    name: Oman Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_123
+    name: Oman Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_124
+    name: Oman Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_125
+    name: Oman Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_126
+    name: Oman Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_127
+    name: Oman Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_128
+    name: Oman Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_129
+    name: Oman Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_130
+    name: Oman Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_131
+    name: Oman Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_132
+    name: Oman Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_133
+    name: Oman Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_134
+    name: Oman Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_135
+    name: Oman Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_136
+    name: Oman Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_137
+    name: Oman Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_138
+    name: Oman Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_139
+    name: Oman Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_140
+    name: Oman Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_141
+    name: Oman Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_142
+    name: Oman Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_143
+    name: Oman Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_144
+    name: Oman Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_145
+    name: Oman Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_146
+    name: Oman Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_147
+    name: Oman Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_148
+    name: Oman Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_149
+    name: Oman Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_150
+    name: Oman Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_151
+    name: Oman Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_152
+    name: Oman Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_153
+    name: Oman Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_154
+    name: Oman Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_155
+    name: Oman Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_156
+    name: Oman Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_157
+    name: Oman Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_158
+    name: Oman Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_159
+    name: Oman Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_160
+    name: Oman Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_161
+    name: Oman Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_162
+    name: Oman Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_163
+    name: Oman Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_164
+    name: Oman Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_165
+    name: Oman Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_166
+    name: Oman Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_167
+    name: Oman Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_168
+    name: Oman Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_169
+    name: Oman Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_170
+    name: Oman Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_171
+    name: Oman Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_172
+    name: Oman Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_173
+    name: Oman Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_174
+    name: Oman Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_175
+    name: Oman Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_176
+    name: Oman Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_177
+    name: Oman Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_178
+    name: Oman Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_179
+    name: Oman Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_180
+    name: Oman Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_181
+    name: Oman Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_182
+    name: Oman Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_183
+    name: Oman Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_184
+    name: Oman Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_185
+    name: Oman Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_186
+    name: Oman Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_187
+    name: Oman Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_188
+    name: Oman Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_189
+    name: Oman Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_190
+    name: Oman Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_191
+    name: Oman Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_192
+    name: Oman Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_193
+    name: Oman Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_194
+    name: Oman Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_195
+    name: Oman Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_196
+    name: Oman Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_197
+    name: Oman Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_198
+    name: Oman Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_199
+    name: Oman Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_200
+    name: Oman Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_201
+    name: Oman Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_202
+    name: Oman Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_203
+    name: Oman Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_204
+    name: Oman Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_205
+    name: Oman Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_206
+    name: Oman Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_207
+    name: Oman Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_208
+    name: Oman Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_209
+    name: Oman Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_210
+    name: Oman Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_211
+    name: Oman Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_212
+    name: Oman Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_213
+    name: Oman Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_214
+    name: Oman Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_215
+    name: Oman Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_216
+    name: Oman Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_217
+    name: Oman Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_218
+    name: Oman Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_219
+    name: Oman Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_220
+    name: Oman Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_221
+    name: Oman Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_222
+    name: Oman Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_223
+    name: Oman Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_224
+    name: Oman Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_225
+    name: Oman Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_226
+    name: Oman Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_227
+    name: Oman Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_228
+    name: Oman Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_229
+    name: Oman Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_230
+    name: Oman Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_231
+    name: Oman Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_232
+    name: Oman Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_233
+    name: Oman Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_234
+    name: Oman Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_235
+    name: Oman Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_236
+    name: Oman Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_237
+    name: Oman Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_238
+    name: Oman Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_239
+    name: Oman Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_240
+    name: Oman Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_241
+    name: Oman Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_242
+    name: Oman Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_243
+    name: Oman Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_244
+    name: Oman Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_245
+    name: Oman Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_246
+    name: Oman Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_247
+    name: Oman Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_248
+    name: Oman Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_249
+    name: Oman Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_250
+    name: Oman Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_251
+    name: Oman Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_om_252
+    name: Oman Skill 252
+    status: ACTIVE_SCAFFOLD
