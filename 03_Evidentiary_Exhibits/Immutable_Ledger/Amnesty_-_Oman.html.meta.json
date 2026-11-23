@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/",
+  "final_url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/",
+  "title": "Amnesty - Oman",
+  "fetched_at": "2026-11-23T15:26:15.301804Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 96747,
+  "sha256": "da165b5762fa33152d016c27230248c6b38b6ad24bc97927fff8b789ec39df87",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

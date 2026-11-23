@@ -1,0 +1,11 @@
+source_id,title,url,publisher,source_type,access,notes,legal_review_status
+SRC-001,Library of Congress - Oman,https://www.loc.gov/search/?q=oman+united+states,Library of Congress,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-002,State Dept - Oman,https://www.state.gov/countries-areas/oman/,State Dept,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-003,UN Digital Library - Oman,https://digitallibrary.un.org/search?ln=en&p=oman,UN Digital Library,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-004,World Bank - Oman,https://data.worldbank.org/country/oman,World Bank,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-005,UNHCR - Oman,https://www.unhcr.org/countries/oman,UNHCR,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-006,HRW - Oman,https://www.hrw.org/middle-east/north-africa/oman,HRW,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-007,Amnesty - Oman,https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/,Amnesty,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-008,ICRC - Oman,https://www.icrc.org/en/where-we-work/middle-east/oman,ICRC,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-009,NARA - Oman,https://catalog.archives.gov/search?q=oman,NARA,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
+SRC-010,US Embassy Oman,https://om.usembassy.gov/,US Embassy Oman,PUBLIC_WEB,PUBLIC,Pending legal review; captured only as public source reference.,PENDING_LEGAL_REVIEW
